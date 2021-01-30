@@ -1,0 +1,2 @@
+spacy==2.2.4
+streamlit==0.59.0
